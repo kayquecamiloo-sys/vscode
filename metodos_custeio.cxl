@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cmap xmlns="http://cmap.ihmc.us/xml/cmap/">
+  <id>87d5f6c0-7a7b-4c6d-9e8a-1b3c4d5e6f7a</id>
+  <name>Métodos de Custeio</name>
+  <concept-list>
+    <concept id="1">Métodos de Custeio</concept>
+    <concept id="2">Métodos Tradicionais</concept>
+    <concept id="3">Custeio por Absorção</concept>
+    <concept id="4">Vantagens</concept>
+    <concept id="5">Desvantagens</concept>
+    <concept id="6">Aplicações</concept>
+    <concept id="7">Custeio Variável</concept>
+    <concept id="8">Método das Seções Homogêneas (RKW)</concept>
+    <concept id="9">Métodos Contemporâneos</concept>
+    <concept id="10">Custeio Baseado em Atividades (ABC)</concept>
+    <concept id="11">Método UEP (Unidade de Esforço de Produção)</concept>
+    <concept id="12">Aplicações em Organizações</concept>
+    <concept id="13">Industriais</concept>
+    <concept id="14">Comerciais</concept>
+    <concept id="15">Serviços</concept>
+    <concept id="16">Públicas</concept>
+    <concept id="17">Comparativos (Híbridos)</concept>
+    <concept id="18">Critérios de Escolha</concept>
+    <concept id="19">Tipo de Organização</concept>
+    <concept id="20">Objetivo Gerencial</concept>
+    <concept id="21">Legislação Fiscal</concept>
+    <concept id="22">Custo de Implantação</concept>
+    <concept id="23">Resultados da Pesquisa (2005-2010)</concept>
+    <concept id="24">Métodos Mais Utilizados</concept>
+    <concept id="25">Setores de Aplicação</concent>
+    <concept id="26">Tendências</concept>
+  </concept-list>
+  <linking-phrase-list>
+    <linking-phrase id="lp1">inclui</linking-phrase>
+    <linking-phrase id="lp2">possui</linking-phrase>
+    <linking-phrase id="lp3">aplicável a</linking-phrase>
+    <linking-phrase id="lp4">influenciado por</linking-phrase>
+    <linking-phrase id="lp5">apresenta</linking-phrase>
+  </linking-phrase-list>
+  <connection-list>
+    <connection id="c1">
+      <from-concept id="1"/>
+      <linking-phrase id="lp1"/>
+      <to-concept id="2"/>
+    </connection>
+    <connection id="c2">
+      <from-concept id="1"/>
+      <linking-phrase id="lp1"/>
+      <to-concept id="9"/>
+    </connection>
+    <connection id="c3">
+      <from-concept id="1"/>
+      <linking-phrase id="lp1"/>
+      <to-concept id="12"/>
+    </connection>
+    <connection id="c4">
+      <from-concept id="1"/>
+      <linking-phrase id="lp1"/>
+      <to-concept id="18"/>
+    </connection>
+    <connection id="c5">
+      <from-concept id="1"/>
+      <linking-phrase id="lp1"/>
+      <to-concept id="23"/>
+    </connection>
+    <connection id="c6">
+      <from-concept id="2"/>
+      <linking-phrase id="lp1"/>
+      <to-concept id="3"/>
+    </connection>
+    <connection id="c7">
+      <from-concept id="2"/>
+      <linking-phrase id="lp1"/>
+      <to-concept id="7"/>
+    </connection>
+    <connection id="c8">
+      <from-concept id="2"/>
+      <linking-phrase id="lp1"/>
+      <to-concept id="8"/>
+    </connection>
+    <connection id="c9">
+      <from-concept id="3"/>
+      <linking-phrase id="lp2"/>
+      <to-concept id="4"/>
+    </connection>
+    <connection id="c10">
+      <from-concept id="3"/>
+      <linking-phrase id="lp2"/>
+      <to-concept id="5"/>
+    </connection>
+    <connection id="c11">
+      <from-concept id="3"/>
+      <linking-phrase id="lp2"/>
+      <to-concept id="6"/>
+    </connection>
+    <connection id="c12">
+      <from-concept id="7"/>
+      <linking-phrase id="lp2"/>
+      <to-concept id="4"/>
+    </connection>
+    <connection id="c13">
+      <from-concept id="7"/>
+      <linking-phrase id="lp2"/>
+      <to-concept id="5"/>
+    </connection>
+    <connection id="c14">
+      <from-concept id="7"/>
+      <linking-phrase id="lp2"/>
+      <to-concept id="6"/>
+    </connection>
+    <connection id="c15">
+      <from-concept id="8"/>
+      <linking-phrase id="lp2"/>
+      <to-concept id="4"/>
+    </connection>
+    <connection id="c16">
+      <from-concept id="8"/>
+      <linking-phrase id="lp2"/>
+      <to-concept id="5"/>
+    </connection>
+    <connection id="c17">
+      <from-concept id="8"/>
+      <linking-phrase id="lp2"/>
+      <to-concept id="6"/>
+    </connection>
+    <connection id="c18">
+      <from-concept id="9"/>
+      <linking-phrase id="lp1"/>
+      <to-concept id="10"/>
+    </connection>
+    <connection id="c19">
+      <from-concept id="9"/>
+      <linking-phrase id="lp1"/>
+      <to-concept id="11"/>
+    </connection>
+    <connection id="c20">
+      <from-concept id="10"/>
+      <linking-phrase id="lp2"/>
+      <to-concept id="4"/>
+    </connection>
+    <connection id="c21">
+      <from-concept id="10"/>
+      <linking-phrase id="lp2"/>
+      <to-concept id="5"/>
+    </connection>
+    <connection id="c22">
+      <from-concept id="10"/>
+      <linking-phrase id="lp2"/>
+      <to-concept id="6"/>
+    </connection>
+    <connection id="c23">
+      <from-concept id="11"/>
+      <linking-phrase id="lp2"/>
+      <to-concept id="4"/>
+    </connection>
+    <connection id="c24">
+      <from-concept id="11"/>
+      <linking-phrase id="lp2"/>
+      <to-concept id="5"/>
+    </connection>
+    <connection id="c25">
+      <from-concept id="11"/>
+      <linking-phrase id="lp2"/>
+      <to-concept id="6"/>
+    </connection>
+    <connection id="c26">
+      <from-concept id="12"/>
+      <linking-phrase id="lp1"/>
+      <to-concept id="13"/>
+    </connection>
+    <connection id="c27">
+      <from-concept id="12"/>
+      <linking-phrase id="lp1"/>
+      <to-concept id="14"/>
+    </connection>
+    <connection id="c28">
+      <from-concept id="12"/>
+      <linking-phrase id="lp1"/>
+      <to-concept id="15"/>
+    </connection>
+    <connection id="c29">
+      <from-concept id="12"/>
+      <linking-phrase id="lp1"/>
+      <to-concept id="16"/>
+    </connection>
+    <connection id="c30">
+      <from-concept id="12"/>
+      <linking-phrase id="lp1"/>
+      <to-concept id="17"/>
+    </connection>
+    <connection id="c31">
+      <from-concept id="18"/>
+      <linking-phrase id="lp1"/>
+      <to-concept id="19"/>
+    </connection>
+    <connection id="c32">
+      <from-concept id="18"/>
+      <linking-phrase id="lp1"/>
+      <to-concept id="20"/>
+    </connection>
+    <connection id="c33">
+      <from-concept id="18"/>
+      <linking-phrase id="lp1"/>
+      <to-concept id="21"/>
+    </connection>
+    <connection id="c34">
+      <from-concept id="18"/>
+      <linking-phrase id="lp1"/>
+      <to-concept id="22"/>
+    </connection>
+    <connection id="c35">
+      <from-concept id="23"/>
+      <linking-phrase id="lp1"/>
+      <to-concept id="24"/>
+    </connection>
+    <connection id="c36">
+      <from-concept id="23"/>
+      <linking-phrase id="lp1"/>
+      <to-concept id="25"/>
+    </connection>
+    <connection id="c37">
+      <from-concept id="23"/>
+      <linking-phrase id="lp1"/>
+      <to-concept id="26"/>
+    </connection>
+  </connection-list>
+  <appearance-list>
+    <concept-appearance concept-id="1" font-size="16" font-style="bold"/>
+    <concept-appearance concept-id="2" font-size="14" font-style="bold"/>
+    <concept-appearance concept-id="9" font-size="14" font-style="bold"/>
+    <concept-appearance concept-id="12" font-size="14" font-style="bold"/>
+    <concept-appearance concept-id="18" font-size="14" font-style="bold"/>
+    <concept-appearance concept-id="23" font-size="14" font-style="bold"/>
+  </appearance-list>
+</cmap>
